@@ -1,2 +1,1 @@
-# 4DR_demo
- 
+# camera_kit_demo
